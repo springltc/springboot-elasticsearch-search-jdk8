@@ -1,0 +1,8 @@
+/Users/liutongchun/Desktop/ai/springboot-elasticsearch-search-jdk8/src/main/java/com/example/search/service/ProductSearchService.java
+/Users/liutongchun/Desktop/ai/springboot-elasticsearch-search-jdk8/src/main/java/com/example/search/controller/ProductSearchController.java
+/Users/liutongchun/Desktop/ai/springboot-elasticsearch-search-jdk8/src/main/java/com/example/search/config/RedisConfig.java
+/Users/liutongchun/Desktop/ai/springboot-elasticsearch-search-jdk8/src/main/java/com/example/search/mapper/ProductMapper.java
+/Users/liutongchun/Desktop/ai/springboot-elasticsearch-search-jdk8/src/main/java/com/example/search/SearchApplication.java
+/Users/liutongchun/Desktop/ai/springboot-elasticsearch-search-jdk8/src/main/java/com/example/search/dto/SearchRequest.java
+/Users/liutongchun/Desktop/ai/springboot-elasticsearch-search-jdk8/src/main/java/com/example/search/entity/Product.java
+/Users/liutongchun/Desktop/ai/springboot-elasticsearch-search-jdk8/src/main/java/com/example/search/repository/ProductElasticsearchRepository.java

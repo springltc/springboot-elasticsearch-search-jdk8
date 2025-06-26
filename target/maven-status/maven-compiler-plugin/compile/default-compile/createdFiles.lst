@@ -1,0 +1,8 @@
+com/example/search/dto/SearchRequest.class
+com/example/search/repository/ProductElasticsearchRepository.class
+com/example/search/SearchApplication.class
+com/example/search/mapper/ProductMapper.class
+com/example/search/config/RedisConfig.class
+com/example/search/entity/Product.class
+com/example/search/service/ProductSearchService.class
+com/example/search/controller/ProductSearchController.class
